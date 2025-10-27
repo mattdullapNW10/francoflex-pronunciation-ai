@@ -3,7 +3,6 @@
 import os
 import json
 import requests
-import pandas as pd
 from dotenv import load_dotenv
 import openai
 import sounddevice as sd
