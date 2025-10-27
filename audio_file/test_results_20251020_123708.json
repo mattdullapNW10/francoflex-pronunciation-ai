@@ -1,0 +1,1129 @@
+{
+  "overall_score": 85,
+  "speechace_score": {},
+  "cefr_score": {
+    "level": "C1"
+  },
+  "word_analysis": [
+    {
+      "word": "L'efficacité",
+      "quality_score": 81,
+      "phones": {
+        "l": {
+          "quality_score": 95,
+          "sound_most_like": "l"
+        },
+        "ee": {
+          "quality_score": 89,
+          "sound_most_like": "ee"
+        },
+        "f": {
+          "quality_score": 88,
+          "sound_most_like": "f"
+        },
+        "iy": {
+          "quality_score": 91,
+          "sound_most_like": "iy"
+        },
+        "k": {
+          "quality_score": 99,
+          "sound_most_like": "k"
+        },
+        "ad": {
+          "quality_score": 86,
+          "sound_most_like": "ad"
+        },
+        "s": {
+          "quality_score": 87,
+          "sound_most_like": "s"
+        },
+        "t": {
+          "quality_score": 71,
+          "sound_most_like": "f"
+        }
+      },
+      "ai_feedback": {
+        "cheering_message": "Great effort! Keep practicing!",
+        "feedback": "Continue working on your pronunciation."
+      }
+    },
+    {
+      "word": "des",
+      "quality_score": 97,
+      "phones": {
+        "d": {
+          "quality_score": 94,
+          "sound_most_like": "d"
+        },
+        "eh": {
+          "quality_score": 99,
+          "sound_most_like": "eh"
+        }
+      },
+      "ai_feedback": {
+        "cheering_message": "Great effort! Keep practicing!",
+        "feedback": "Continue working on your pronunciation."
+      }
+    },
+    {
+      "word": "médicaments",
+      "quality_score": 74,
+      "phones": {
+        "m": {
+          "quality_score": 86,
+          "sound_most_like": "m"
+        },
+        "ee": {
+          "quality_score": 100,
+          "sound_most_like": "ee"
+        },
+        "d": {
+          "quality_score": 42,
+          "sound_most_like": "t"
+        },
+        "iy": {
+          "quality_score": 98,
+          "sound_most_like": "iy"
+        },
+        "k": {
+          "quality_score": 67,
+          "sound_most_like": "rw"
+        },
+        "ad": {
+          "quality_score": 0,
+          "sound_most_like": null
+        },
+        "agn": {
+          "quality_score": 99,
+          "sound_most_like": "agn"
+        }
+      },
+      "ai_feedback": {
+        "cheering_message": "Great effort! Keep practicing!",
+        "feedback": "Continue working on your pronunciation."
+      }
+    },
+    {
+      "word": "est",
+      "quality_score": 99,
+      "phones": {
+        "eh": {
+          "quality_score": 99,
+          "sound_most_like": "eh"
+        }
+      },
+      "ai_feedback": {
+        "cheering_message": "Great effort! Keep practicing!",
+        "feedback": "Continue working on your pronunciation."
+      }
+    },
+    {
+      "word": "importante",
+      "quality_score": 85,
+      "phones": {
+        "ehn": {
+          "quality_score": 98,
+          "sound_most_like": "ehn"
+        },
+        "p": {
+          "quality_score": 82,
+          "sound_most_like": "p"
+        },
+        "oo": {
+          "quality_score": 90,
+          "sound_most_like": "oo"
+        },
+        "rw": {
+          "quality_score": 99,
+          "sound_most_like": "rw"
+        },
+        "t": {
+          "quality_score": 79,
+          "sound_most_like": "k"
+        },
+        "agn": {
+          "quality_score": 47,
+          "sound_most_like": "ehn"
+        }
+      },
+      "ai_feedback": {
+        "cheering_message": "Great effort! Keep practicing!",
+        "feedback": "Continue working on your pronunciation."
+      }
+    },
+    {
+      "word": "pour",
+      "quality_score": 95,
+      "phones": {
+        "p": {
+          "quality_score": 99,
+          "sound_most_like": "p"
+        },
+        "uw": {
+          "quality_score": 94,
+          "sound_most_like": "uw"
+        },
+        "rw": {
+          "quality_score": 93,
+          "sound_most_like": "rw"
+        }
+      },
+      "ai_feedback": {
+        "cheering_message": "Great effort! Keep practicing!",
+        "feedback": "Continue working on your pronunciation."
+      }
+    },
+    {
+      "word": "la",
+      "quality_score": 97,
+      "phones": {
+        "l": {
+          "quality_score": 100,
+          "sound_most_like": "l"
+        },
+        "ad": {
+          "quality_score": 95,
+          "sound_most_like": "ad"
+        }
+      },
+      "ai_feedback": {
+        "cheering_message": "Great effort! Keep practicing!",
+        "feedback": "Continue working on your pronunciation."
+      }
+    },
+    {
+      "word": "santé",
+      "quality_score": 95,
+      "phones": {
+        "s": {
+          "quality_score": 99,
+          "sound_most_like": "s"
+        },
+        "agn": {
+          "quality_score": 98,
+          "sound_most_like": "agn"
+        },
+        "t": {
+          "quality_score": 86,
+          "sound_most_like": "t"
+        },
+        "ee": {
+          "quality_score": 96,
+          "sound_most_like": "ee"
+        }
+      },
+      "ai_feedback": {
+        "cheering_message": "Great effort! Keep practicing!",
+        "feedback": "Continue working on your pronunciation."
+      }
+    }
+  ],
+  "metadata": {
+    "status": "success",
+    "api_version": "v9",
+    "raw_api_response": {
+      "status": "success",
+      "quota_remaining": -1,
+      "text_score": {
+        "text": "L'efficacité des médicaments est importante pour la santé.",
+        "word_score_list": [
+          {
+            "word": "L'efficacité",
+            "quality_score": 81,
+            "phone_score_list": [
+              {
+                "phone": "l",
+                "stress_level": null,
+                "extent": [
+                  173,
+                  186
+                ],
+                "quality_score": 95,
+                "word_extent": [
+                  0,
+                  2
+                ],
+                "sound_most_like": "l"
+              },
+              {
+                "phone": "ee",
+                "stress_level": null,
+                "extent": [
+                  186,
+                  198
+                ],
+                "quality_score": 65.33333333333333,
+                "word_extent": [
+                  2,
+                  4
+                ],
+                "sound_most_like": "eh",
+                "child_phones": [
+                  {
+                    "extent": [
+                      186,
+                      195
+                    ],
+                    "quality_score": 75.44444444444444,
+                    "sound_most_like": "eh"
+                  },
+                  {
+                    "extent": [
+                      195,
+                      198
+                    ],
+                    "quality_score": 35,
+                    "sound_most_like": "ehn"
+                  }
+                ]
+              },
+              {
+                "phone": "f",
+                "stress_level": null,
+                "extent": [
+                  198,
+                  216
+                ],
+                "quality_score": 88.27777777777777,
+                "word_extent": [
+                  4,
+                  5
+                ],
+                "sound_most_like": "f"
+              },
+              {
+                "phone": "iy",
+                "stress_level": null,
+                "extent": [
+                  216,
+                  222
+                ],
+                "quality_score": 38.83333333333333,
+                "word_extent": [
+                  5,
+                  6
+                ],
+                "sound_most_like": "eh"
+              },
+              {
+                "phone": "k",
+                "stress_level": null,
+                "extent": [
+                  222,
+                  237
+                ],
+                "quality_score": 99,
+                "word_extent": [
+                  6,
+                  7
+                ],
+                "sound_most_like": "k"
+              },
+              {
+                "phone": "ad",
+                "stress_level": null,
+                "extent": [
+                  237,
+                  246
+                ],
+                "quality_score": 86,
+                "word_extent": [
+                  7,
+                  8
+                ],
+                "sound_most_like": "ad"
+              },
+              {
+                "phone": "s",
+                "stress_level": null,
+                "extent": [
+                  246,
+                  267
+                ],
+                "quality_score": 86.80952380952381,
+                "word_extent": [
+                  8,
+                  9
+                ],
+                "sound_most_like": "s"
+              },
+              {
+                "phone": "iy",
+                "stress_level": null,
+                "extent": [
+                  267,
+                  268
+                ],
+                "quality_score": 91,
+                "word_extent": [
+                  9,
+                  10
+                ],
+                "sound_most_like": "iy"
+              },
+              {
+                "phone": "t",
+                "stress_level": null,
+                "extent": [
+                  268,
+                  288
+                ],
+                "quality_score": 70.75,
+                "word_extent": [
+                  10,
+                  11
+                ],
+                "sound_most_like": "f",
+                "child_phones": [
+                  {
+                    "extent": [
+                      268,
+                      279
+                    ],
+                    "quality_score": 100,
+                    "sound_most_like": "t"
+                  },
+                  {
+                    "extent": [
+                      279,
+                      285
+                    ],
+                    "quality_score": 35,
+                    "sound_most_like": "f"
+                  },
+                  {
+                    "extent": [
+                      285,
+                      288
+                    ],
+                    "quality_score": 35,
+                    "sound_most_like": "v"
+                  }
+                ]
+              },
+              {
+                "phone": "ee",
+                "stress_level": null,
+                "extent": [
+                  288,
+                  309
+                ],
+                "quality_score": 88.57142857142857,
+                "word_extent": [
+                  11,
+                  12
+                ],
+                "sound_most_like": "ee"
+              }
+            ],
+            "syllable_score_list": [
+              {
+                "phone_count": 2,
+                "stress_level": -1,
+                "letters": "l'ef",
+                "quality_score": 80,
+                "extent": [
+                  173,
+                  198
+                ]
+              },
+              {
+                "phone_count": 2,
+                "stress_level": -1,
+                "letters": "fi",
+                "quality_score": 64,
+                "extent": [
+                  198,
+                  222
+                ]
+              },
+              {
+                "phone_count": 2,
+                "stress_level": -1,
+                "letters": "ca",
+                "quality_score": 92,
+                "extent": [
+                  222,
+                  246
+                ]
+              },
+              {
+                "phone_count": 2,
+                "stress_level": -1,
+                "letters": "ci",
+                "quality_score": 89,
+                "extent": [
+                  246,
+                  268
+                ]
+              },
+              {
+                "phone_count": 2,
+                "stress_level": -1,
+                "letters": "té",
+                "quality_score": 80,
+                "extent": [
+                  268,
+                  309
+                ]
+              }
+            ]
+          },
+          {
+            "word": "des",
+            "quality_score": 97,
+            "phone_score_list": [
+              {
+                "phone": "d",
+                "stress_level": null,
+                "extent": [
+                  313,
+                  324
+                ],
+                "quality_score": 93.81818181818181,
+                "word_extent": [
+                  0,
+                  1
+                ],
+                "sound_most_like": "d"
+              },
+              {
+                "phone": "eh",
+                "stress_level": null,
+                "extent": [
+                  324,
+                  333
+                ],
+                "quality_score": 99.33333333333333,
+                "word_extent": [
+                  1,
+                  2
+                ],
+                "sound_most_like": "eh"
+              }
+            ],
+            "syllable_score_list": [
+              {
+                "phone_count": 2,
+                "stress_level": -1,
+                "letters": "des",
+                "quality_score": 97,
+                "extent": [
+                  313,
+                  333
+                ]
+              }
+            ]
+          },
+          {
+            "word": "médicaments",
+            "quality_score": 74,
+            "phone_score_list": [
+              {
+                "phone": "m",
+                "stress_level": null,
+                "extent": [
+                  334,
+                  351
+                ],
+                "quality_score": 99.82352941176471,
+                "word_extent": [
+                  0,
+                  1
+                ],
+                "sound_most_like": "m"
+              },
+              {
+                "phone": "ee",
+                "stress_level": null,
+                "extent": [
+                  351,
+                  357
+                ],
+                "quality_score": 100,
+                "word_extent": [
+                  1,
+                  2
+                ],
+                "sound_most_like": "ee"
+              },
+              {
+                "phone": "d",
+                "stress_level": null,
+                "extent": [
+                  357,
+                  369
+                ],
+                "quality_score": 41.666666666666686,
+                "word_extent": [
+                  2,
+                  3
+                ],
+                "sound_most_like": "t"
+              },
+              {
+                "phone": "iy",
+                "stress_level": null,
+                "extent": [
+                  369,
+                  378
+                ],
+                "quality_score": 98,
+                "word_extent": [
+                  3,
+                  4
+                ],
+                "sound_most_like": "iy"
+              },
+              {
+                "phone": "k",
+                "stress_level": null,
+                "extent": [
+                  378,
+                  396
+                ],
+                "quality_score": 67.27777777777777,
+                "word_extent": [
+                  4,
+                  5
+                ],
+                "sound_most_like": "rw",
+                "child_phones": [
+                  {
+                    "extent": [
+                      378,
+                      390
+                    ],
+                    "quality_score": 83.41666666666667,
+                    "sound_most_like": "k"
+                  },
+                  {
+                    "extent": [
+                      390,
+                      396
+                    ],
+                    "quality_score": 35,
+                    "sound_most_like": "rw"
+                  }
+                ]
+              },
+              {
+                "phone": "ad",
+                "stress_level": null,
+                "extent": [
+                  396,
+                  396
+                ],
+                "quality_score": 0,
+                "word_extent": [
+                  5,
+                  6
+                ],
+                "sound_most_like": null
+              },
+              {
+                "phone": "m",
+                "stress_level": null,
+                "extent": [
+                  396,
+                  411
+                ],
+                "quality_score": 86,
+                "word_extent": [
+                  6,
+                  7
+                ],
+                "sound_most_like": "m"
+              },
+              {
+                "phone": "agn",
+                "stress_level": null,
+                "extent": [
+                  411,
+                  426
+                ],
+                "quality_score": 99,
+                "word_extent": [
+                  7,
+                  9
+                ],
+                "sound_most_like": "agn"
+              }
+            ],
+            "syllable_score_list": [
+              {
+                "phone_count": 2,
+                "stress_level": -1,
+                "letters": "mé",
+                "quality_score": 100,
+                "extent": [
+                  334,
+                  357
+                ]
+              },
+              {
+                "phone_count": 2,
+                "stress_level": -1,
+                "letters": "di",
+                "quality_score": 70,
+                "extent": [
+                  357,
+                  378
+                ]
+              },
+              {
+                "phone_count": 2,
+                "stress_level": -1,
+                "letters": "ca",
+                "quality_score": 34,
+                "extent": [
+                  378,
+                  396
+                ]
+              },
+              {
+                "phone_count": 2,
+                "stress_level": -1,
+                "letters": "ments",
+                "quality_score": 92,
+                "extent": [
+                  396,
+                  426
+                ]
+              }
+            ]
+          },
+          {
+            "word": "est",
+            "quality_score": 99,
+            "phone_score_list": [
+              {
+                "phone": "eh",
+                "stress_level": null,
+                "extent": [
+                  487,
+                  516
+                ],
+                "quality_score": 98.72727272727273,
+                "word_extent": [
+                  0,
+                  1
+                ],
+                "sound_most_like": "eh"
+              }
+            ],
+            "syllable_score_list": [
+              {
+                "phone_count": 1,
+                "stress_level": -1,
+                "letters": "est",
+                "quality_score": 99,
+                "extent": [
+                  487,
+                  516
+                ]
+              }
+            ]
+          },
+          {
+            "word": "importante",
+            "quality_score": 85,
+            "phone_score_list": [
+              {
+                "phone": "ehn",
+                "stress_level": null,
+                "extent": [
+                  526,
+                  534
+                ],
+                "quality_score": 97.5,
+                "word_extent": [
+                  0,
+                  2
+                ],
+                "sound_most_like": "ehn"
+              },
+              {
+                "phone": "p",
+                "stress_level": null,
+                "extent": [
+                  534,
+                  549
+                ],
+                "quality_score": 81.8,
+                "word_extent": [
+                  2,
+                  3
+                ],
+                "sound_most_like": "p"
+              },
+              {
+                "phone": "oo",
+                "stress_level": null,
+                "extent": [
+                  549,
+                  550
+                ],
+                "quality_score": 90,
+                "word_extent": [
+                  3,
+                  4
+                ],
+                "sound_most_like": "oo"
+              },
+              {
+                "phone": "rw",
+                "stress_level": null,
+                "extent": [
+                  550,
+                  555
+                ],
+                "quality_score": 99,
+                "word_extent": [
+                  4,
+                  5
+                ],
+                "sound_most_like": "rw"
+              },
+              {
+                "phone": "t",
+                "stress_level": null,
+                "extent": [
+                  555,
+                  567
+                ],
+                "quality_score": 99.75,
+                "word_extent": [
+                  5,
+                  6
+                ],
+                "sound_most_like": "t"
+              },
+              {
+                "phone": "agn",
+                "stress_level": null,
+                "extent": [
+                  567,
+                  582
+                ],
+                "quality_score": 47.06666666666667,
+                "word_extent": [
+                  6,
+                  8
+                ],
+                "sound_most_like": "ehn",
+                "child_phones": [
+                  {
+                    "extent": [
+                      567,
+                      570
+                    ],
+                    "quality_score": 35,
+                    "sound_most_like": "ah"
+                  },
+                  {
+                    "extent": [
+                      570,
+                      573
+                    ],
+                    "quality_score": 35,
+                    "sound_most_like": "oon"
+                  },
+                  {
+                    "extent": [
+                      573,
+                      582
+                    ],
+                    "quality_score": 55.111111111111114,
+                    "sound_most_like": "ehn"
+                  }
+                ]
+              },
+              {
+                "phone": "t",
+                "stress_level": null,
+                "extent": [
+                  582,
+                  600
+                ],
+                "quality_score": 78.55555555555556,
+                "word_extent": [
+                  8,
+                  9
+                ],
+                "sound_most_like": "k",
+                "child_phones": [
+                  {
+                    "extent": [
+                      582,
+                      594
+                    ],
+                    "quality_score": 97,
+                    "sound_most_like": "t"
+                  },
+                  {
+                    "extent": [
+                      594,
+                      600
+                    ],
+                    "quality_score": 41.666666666666664,
+                    "sound_most_like": "k"
+                  }
+                ]
+              }
+            ],
+            "syllable_score_list": [
+              {
+                "phone_count": 1,
+                "stress_level": -1,
+                "letters": "im",
+                "quality_score": 98,
+                "extent": [
+                  526,
+                  534
+                ]
+              },
+              {
+                "phone_count": 3,
+                "stress_level": -1,
+                "letters": "por",
+                "quality_score": 90,
+                "extent": [
+                  534,
+                  555
+                ]
+              },
+              {
+                "phone_count": 3,
+                "stress_level": -1,
+                "letters": "tante",
+                "quality_score": 75,
+                "extent": [
+                  555,
+                  600
+                ]
+              }
+            ]
+          },
+          {
+            "word": "pour",
+            "quality_score": 95,
+            "phone_score_list": [
+              {
+                "phone": "p",
+                "stress_level": null,
+                "extent": [
+                  601,
+                  612
+                ],
+                "quality_score": 99,
+                "word_extent": [
+                  0,
+                  1
+                ],
+                "sound_most_like": "p"
+              },
+              {
+                "phone": "uw",
+                "stress_level": null,
+                "extent": [
+                  612,
+                  615
+                ],
+                "quality_score": 94,
+                "word_extent": [
+                  1,
+                  3
+                ],
+                "sound_most_like": "uw"
+              },
+              {
+                "phone": "rw",
+                "stress_level": null,
+                "extent": [
+                  615,
+                  621
+                ],
+                "quality_score": 93,
+                "word_extent": [
+                  3,
+                  4
+                ],
+                "sound_most_like": "rw"
+              }
+            ],
+            "syllable_score_list": [
+              {
+                "phone_count": 3,
+                "stress_level": -1,
+                "letters": "pour",
+                "quality_score": 95,
+                "extent": [
+                  601,
+                  621
+                ]
+              }
+            ]
+          },
+          {
+            "word": "la",
+            "quality_score": 97,
+            "phone_score_list": [
+              {
+                "phone": "l",
+                "stress_level": null,
+                "extent": [
+                  622,
+                  627
+                ],
+                "quality_score": 99.6,
+                "word_extent": [
+                  0,
+                  1
+                ],
+                "sound_most_like": "l"
+              },
+              {
+                "phone": "ad",
+                "stress_level": null,
+                "extent": [
+                  627,
+                  639
+                ],
+                "quality_score": 94.75,
+                "word_extent": [
+                  1,
+                  2
+                ],
+                "sound_most_like": "ad"
+              }
+            ],
+            "syllable_score_list": [
+              {
+                "phone_count": 2,
+                "stress_level": -1,
+                "letters": "la",
+                "quality_score": 97,
+                "extent": [
+                  622,
+                  639
+                ]
+              }
+            ]
+          },
+          {
+            "word": "santé",
+            "quality_score": 95,
+            "phone_score_list": [
+              {
+                "phone": "s",
+                "stress_level": null,
+                "extent": [
+                  640,
+                  654
+                ],
+                "quality_score": 99.42857142857143,
+                "word_extent": [
+                  0,
+                  1
+                ],
+                "sound_most_like": "s"
+              },
+              {
+                "phone": "agn",
+                "stress_level": null,
+                "extent": [
+                  654,
+                  663
+                ],
+                "quality_score": 98,
+                "word_extent": [
+                  1,
+                  3
+                ],
+                "sound_most_like": "agn"
+              },
+              {
+                "phone": "t",
+                "stress_level": null,
+                "extent": [
+                  663,
+                  678
+                ],
+                "quality_score": 86.4,
+                "word_extent": [
+                  3,
+                  4
+                ],
+                "sound_most_like": "t",
+                "child_phones": [
+                  {
+                    "extent": [
+                      663,
+                      675
+                    ],
+                    "quality_score": 99.25,
+                    "sound_most_like": "t"
+                  },
+                  {
+                    "extent": [
+                      675,
+                      678
+                    ],
+                    "quality_score": 35,
+                    "sound_most_like": "rw"
+                  }
+                ]
+              },
+              {
+                "phone": "ee",
+                "stress_level": null,
+                "extent": [
+                  678,
+                  696
+                ],
+                "quality_score": 96,
+                "word_extent": [
+                  4,
+                  5
+                ],
+                "sound_most_like": "ee"
+              }
+            ],
+            "ending_punctuation": ".",
+            "syllable_score_list": [
+              {
+                "phone_count": 2,
+                "stress_level": -1,
+                "letters": "san",
+                "quality_score": 99,
+                "extent": [
+                  640,
+                  663
+                ]
+              },
+              {
+                "phone_count": 2,
+                "stress_level": -1,
+                "letters": "té",
+                "quality_score": 91,
+                "extent": [
+                  663,
+                  696
+                ]
+              }
+            ]
+          }
+        ],
+        "speechace_score": {
+          "pronunciation": 85
+        },
+        "cefr_score": {
+          "pronunciation": "C1"
+        }
+      },
+      "version": "9.3",
+      "request_id": "6530ae7f50e8df3a46c1c21ddce171cf"
+    }
+  }
+}

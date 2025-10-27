@@ -1,0 +1,146 @@
+{
+    "status": "success",
+    "quota_remaining": -1,
+    
+    "text_score": {
+      "text": "{{user_sentence}}",
+      "word_score_list": [
+        {
+            "word": "Bonjour",
+            "quality_score": 90,
+            "phone_score_list": [
+              {
+                "phone": "b",
+                "stress_level": null,
+                "extent": [
+                  166,
+                  177
+                ],
+                "quality_score": 82.27272727272727,
+                "word_extent": [
+                  0,
+                  1
+                ],
+                "sound_most_like": "b",
+                "child_phones": [
+                  {
+                    "extent": [
+                      166,
+                      174
+                    ],
+                    "quality_score": 100,
+                    "sound_most_like": "b"
+                  }
+        {
+          "word": "{{word_text}}",
+          "status": "mastered|improving|needs_work",
+          "quality_score": 0-100,
+          "phone_score_list": [
+            {
+              "phone": "{{phoneme_symbol}}",
+              "stress_level": null|0|1|2,
+              "quality_score": 0-100,
+              "stress_score": 0-100,
+              "predicted_stress_level": 0|1|2,
+              "word_extent": [start_index, end_index],
+              "extent": [start_ms, end_ms],
+              "sound_most_like": "{{phoneme}}",
+              "improvements": {
+                "trend": "positive|stable|negative",
+                "delta": +/-number,
+                "practice_count": number,
+                "sessions_to_mastery": "~number",
+                "velocity": "+number/session"
+              },
+              "practice": {
+                "pair": "{{phoneme1}} / {{phoneme2}}",
+                "sentence": "{{practice_sentence}}"
+              },
+              "feedback": "{{ai_generated_feedback}}"
+            }
+          ],
+          "syllable_score_list": [
+            {
+              "phone_count": number,
+              "stress_level": 0|1|2,
+              "letters": "{{syllable_text}}",
+              "quality_score": 0-100,
+              "stress_score": 0-100,
+              "predicted_stress_level": 0|1|2,
+              "extent": [start_ms, end_ms]
+            }
+          ],
+          "ending_punctuation": ".|,|?|!"
+        }
+      ],
+      
+      "ielts_score": {
+        "pronunciation": 0-9
+      },
+      "pte_score": {
+        "pronunciation": 0-90
+      },
+      "speechace_score": {
+        "pronunciation": 0-100
+      },
+      "toeic_score": {
+        "pronunciation": 0-200
+      },
+      "cefr_score": {
+        "pronunciation": "A1|A2|B1|B2|C1|C2"
+      }
+    },
+    
+    "ai_coach": {
+      "overall_assessment": "{{ai_summary}}",
+      
+      "top_priorities": [
+        {
+          "rank": 1,
+          "phoneme": "{{phoneme}}",
+          "current_score": 0-100,
+          "issue": "{{issue_description}}",
+          "words_affected": ["{{word1}}", "{{word2}}"],
+          "impact": "high|medium|low",
+          "practice_recommendation": "{{recommendation}}"
+        }
+      ],
+      
+      "l1_specific_corrections": [
+        {
+          "phoneme": "{{phoneme}}",
+          "detected_in": "{{word}}",
+          "actual_sound": "{{what_they_said}}",
+          "score": 0-100,
+          "why_this_happens": "{{L1_interference_explanation}}",
+          "your_language_vs_english": "{{comparison}}",
+          "how_to_fix": "{{technique}}",
+          "practice_now": [
+            "{{minimal_pair_1}}",
+            "{{minimal_pair_2}}",
+            "{{minimal_pair_3}}"
+          ],
+          "physical_check": "{{physical_cue}}",
+          "pattern_frequency": "{{history_stats}}",
+          "encouragement": "{{motivation}}",
+          "similar_sounds_in_spanish": "{{L1_comparison}}"
+        }
+      ],
+      
+      "progress_insight": {
+        "session_trend": "improving|stable|declining",
+        "standout_improvement": "{{notable_progress}}",
+        "mastered_phonemes": ["{{phone1}}", "{{phone2}}"],
+        "consistency": "{{consistency_note}}",
+        
+      },
+      
+      "motivation": {
+        "message": "{{encouragement}}",
+        "next_milestone": "{{goal}}",
+        "comparative": "{{social_proof}}"
+      }
+    },
+    
+    "version": "9.3"
+  }

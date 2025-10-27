@@ -1,0 +1,803 @@
+{
+  "overall_score": 93,
+  "speechace_score": {},
+  "cefr_score": {
+    "level": "C2"
+  },
+  "word_analysis": [
+    {
+      "word": "Je",
+      "quality_score": 93,
+      "phones": {
+        "zh": {
+          "quality_score": 100,
+          "sound_most_like": "zh"
+        },
+        "ah": {
+          "quality_score": 86,
+          "sound_most_like": "ah"
+        }
+      },
+      "ai_feedback": {
+        "cheering_message": "Great effort! Keep practicing!",
+        "feedback": "Continue working on your pronunciation."
+      }
+    },
+    {
+      "word": "m'appelle",
+      "quality_score": 93,
+      "phones": {
+        "m": {
+          "quality_score": 88,
+          "sound_most_like": "m"
+        },
+        "ad": {
+          "quality_score": 100,
+          "sound_most_like": "ad"
+        },
+        "p": {
+          "quality_score": 98,
+          "sound_most_like": "p"
+        },
+        "eh": {
+          "quality_score": 100,
+          "sound_most_like": "eh"
+        },
+        "l": {
+          "quality_score": 78,
+          "sound_most_like": "g"
+        }
+      },
+      "ai_feedback": {
+        "cheering_message": "Great effort! Keep practicing!",
+        "feedback": "Continue working on your pronunciation."
+      }
+    },
+    {
+      "word": "François",
+      "quality_score": 94,
+      "phones": {
+        "f": {
+          "quality_score": 70,
+          "sound_most_like": "uw"
+        },
+        "rw": {
+          "quality_score": 100,
+          "sound_most_like": "rw"
+        },
+        "agn": {
+          "quality_score": 100,
+          "sound_most_like": "agn"
+        },
+        "s": {
+          "quality_score": 97,
+          "sound_most_like": "s"
+        },
+        "w": {
+          "quality_score": 100,
+          "sound_most_like": "w"
+        },
+        "ad": {
+          "quality_score": 99,
+          "sound_most_like": "ad"
+        }
+      },
+      "ai_feedback": {
+        "cheering_message": "Great effort! Keep practicing!",
+        "feedback": "Continue working on your pronunciation."
+      }
+    },
+    {
+      "word": "et",
+      "quality_score": 94,
+      "phones": {
+        "ee": {
+          "quality_score": 94,
+          "sound_most_like": "ee"
+        }
+      },
+      "ai_feedback": {
+        "cheering_message": "Great effort! Keep practicing!",
+        "feedback": "Continue working on your pronunciation."
+      }
+    },
+    {
+      "word": "j'habite",
+      "quality_score": 87,
+      "phones": {
+        "zh": {
+          "quality_score": 98,
+          "sound_most_like": "zh"
+        },
+        "ad": {
+          "quality_score": 41,
+          "sound_most_like": "ee"
+        },
+        "b": {
+          "quality_score": 97,
+          "sound_most_like": "b"
+        },
+        "iy": {
+          "quality_score": 100,
+          "sound_most_like": "iy"
+        },
+        "t": {
+          "quality_score": 99,
+          "sound_most_like": "t"
+        }
+      },
+      "ai_feedback": {
+        "cheering_message": "Great effort! Keep practicing!",
+        "feedback": "Continue working on your pronunciation."
+      }
+    },
+    {
+      "word": "à",
+      "quality_score": 99,
+      "phones": {
+        "ad": {
+          "quality_score": 99,
+          "sound_most_like": "ad"
+        }
+      },
+      "ai_feedback": {
+        "cheering_message": "Great effort! Keep practicing!",
+        "feedback": "Continue working on your pronunciation."
+      }
+    },
+    {
+      "word": "Paris",
+      "quality_score": 98,
+      "phones": {
+        "p": {
+          "quality_score": 100,
+          "sound_most_like": "p"
+        },
+        "ad": {
+          "quality_score": 100,
+          "sound_most_like": "ad"
+        },
+        "rw": {
+          "quality_score": 100,
+          "sound_most_like": "rw"
+        },
+        "iy": {
+          "quality_score": 93,
+          "sound_most_like": "iy"
+        }
+      },
+      "ai_feedback": {
+        "cheering_message": "Great effort! Keep practicing!",
+        "feedback": "Continue working on your pronunciation."
+      }
+    }
+  ],
+  "metadata": {
+    "status": "success",
+    "api_version": "v9",
+    "raw_api_response": {
+      "status": "success",
+      "quota_remaining": -1,
+      "text_score": {
+        "text": "Je m'appelle François et j'habite à Paris.",
+        "word_score_list": [
+          {
+            "word": "Je",
+            "quality_score": 93,
+            "phone_score_list": [
+              {
+                "phone": "zh",
+                "stress_level": null,
+                "extent": [
+                  307,
+                  330
+                ],
+                "quality_score": 99.73913043478261,
+                "word_extent": [
+                  0,
+                  1
+                ],
+                "sound_most_like": "zh"
+              },
+              {
+                "phone": "ah",
+                "stress_level": null,
+                "extent": [
+                  330,
+                  336
+                ],
+                "quality_score": 86,
+                "word_extent": [
+                  1,
+                  2
+                ],
+                "sound_most_like": "ah"
+              }
+            ],
+            "syllable_score_list": [
+              {
+                "phone_count": 2,
+                "stress_level": -1,
+                "letters": "je",
+                "quality_score": 93,
+                "extent": [
+                  307,
+                  336
+                ]
+              }
+            ]
+          },
+          {
+            "word": "m'appelle",
+            "quality_score": 93,
+            "phone_score_list": [
+              {
+                "phone": "m",
+                "stress_level": null,
+                "extent": [
+                  337,
+                  351
+                ],
+                "quality_score": 88.45238095238095,
+                "word_extent": [
+                  0,
+                  2
+                ],
+                "sound_most_like": "m"
+              },
+              {
+                "phone": "ad",
+                "stress_level": null,
+                "extent": [
+                  351,
+                  357
+                ],
+                "quality_score": 99.5,
+                "word_extent": [
+                  2,
+                  3
+                ],
+                "sound_most_like": "ad"
+              },
+              {
+                "phone": "p",
+                "stress_level": null,
+                "extent": [
+                  357,
+                  369
+                ],
+                "quality_score": 98,
+                "word_extent": [
+                  3,
+                  5
+                ],
+                "sound_most_like": "p"
+              },
+              {
+                "phone": "eh",
+                "stress_level": null,
+                "extent": [
+                  369,
+                  375
+                ],
+                "quality_score": 100,
+                "word_extent": [
+                  5,
+                  7
+                ],
+                "sound_most_like": "eh"
+              },
+              {
+                "phone": "l",
+                "stress_level": null,
+                "extent": [
+                  375,
+                  384
+                ],
+                "quality_score": 78,
+                "word_extent": [
+                  7,
+                  8
+                ],
+                "sound_most_like": "g",
+                "child_phones": [
+                  {
+                    "extent": [
+                      375,
+                      381
+                    ],
+                    "quality_score": 99.5,
+                    "sound_most_like": "l"
+                  },
+                  {
+                    "extent": [
+                      381,
+                      384
+                    ],
+                    "quality_score": 35,
+                    "sound_most_like": "g"
+                  }
+                ]
+              }
+            ],
+            "syllable_score_list": [
+              {
+                "phone_count": 2,
+                "stress_level": -1,
+                "letters": "m'a",
+                "quality_score": 94,
+                "extent": [
+                  337,
+                  357
+                ]
+              },
+              {
+                "phone_count": 3,
+                "stress_level": -1,
+                "letters": "ppelle",
+                "quality_score": 92,
+                "extent": [
+                  357,
+                  384
+                ]
+              }
+            ]
+          },
+          {
+            "word": "François",
+            "quality_score": 94,
+            "phone_score_list": [
+              {
+                "phone": "f",
+                "stress_level": null,
+                "extent": [
+                  385,
+                  402
+                ],
+                "quality_score": 69.58823529411765,
+                "sound_most_like": "uw",
+                "child_phones": [
+                  {
+                    "extent": [
+                      385,
+                      393
+                    ],
+                    "quality_score": 74.375,
+                    "sound_most_like": "v"
+                  },
+                  {
+                    "extent": [
+                      393,
+                      396
+                    ],
+                    "quality_score": 0,
+                    "sound_most_like": "uw"
+                  },
+                  {
+                    "extent": [
+                      396,
+                      399
+                    ],
+                    "quality_score": 96,
+                    "sound_most_like": "rw"
+                  },
+                  {
+                    "extent": [
+                      399,
+                      402
+                    ],
+                    "quality_score": 100,
+                    "sound_most_like": "f"
+                  }
+                ]
+              },
+              {
+                "phone": "rw",
+                "stress_level": null,
+                "extent": [
+                  402,
+                  414
+                ],
+                "quality_score": 99.5,
+                "sound_most_like": "rw"
+              },
+              {
+                "phone": "agn",
+                "stress_level": null,
+                "extent": [
+                  414,
+                  420
+                ],
+                "quality_score": 100,
+                "sound_most_like": "agn"
+              },
+              {
+                "phone": "s",
+                "stress_level": null,
+                "extent": [
+                  420,
+                  438
+                ],
+                "quality_score": 97.33333333333333,
+                "sound_most_like": "s"
+              },
+              {
+                "phone": "w",
+                "stress_level": null,
+                "extent": [
+                  438,
+                  450
+                ],
+                "quality_score": 100,
+                "sound_most_like": "w"
+              },
+              {
+                "phone": "ad",
+                "stress_level": null,
+                "extent": [
+                  450,
+                  459
+                ],
+                "quality_score": 98.66666666666667,
+                "sound_most_like": "ad"
+              }
+            ],
+            "syllable_score_list": [
+              {
+                "phone_count": 2,
+                "stress_level": -1,
+                "letters": "fran",
+                "quality_score": 85,
+                "extent": [
+                  385,
+                  414
+                ]
+              },
+              {
+                "phone_count": 4,
+                "stress_level": -1,
+                "letters": "çois",
+                "quality_score": 99,
+                "extent": [
+                  414,
+                  459
+                ]
+              }
+            ]
+          },
+          {
+            "word": "et",
+            "quality_score": 94,
+            "phone_score_list": [
+              {
+                "phone": "ee",
+                "stress_level": null,
+                "extent": [
+                  469,
+                  480
+                ],
+                "quality_score": 93.9090909090909,
+                "word_extent": [
+                  0,
+                  1
+                ],
+                "sound_most_like": "ee"
+              }
+            ],
+            "syllable_score_list": [
+              {
+                "phone_count": 1,
+                "stress_level": -1,
+                "letters": "et",
+                "quality_score": 94,
+                "extent": [
+                  469,
+                  480
+                ]
+              }
+            ]
+          },
+          {
+            "word": "j'habite",
+            "quality_score": 87,
+            "phone_score_list": [
+              {
+                "phone": "zh",
+                "stress_level": null,
+                "extent": [
+                  481,
+                  486
+                ],
+                "quality_score": 97.8,
+                "word_extent": [
+                  0,
+                  2
+                ],
+                "sound_most_like": "zh"
+              },
+              {
+                "phone": "ad",
+                "stress_level": null,
+                "extent": [
+                  486,
+                  492
+                ],
+                "quality_score": 41.08333333333334,
+                "word_extent": [
+                  3,
+                  4
+                ],
+                "sound_most_like": "ee",
+                "child_phones": [
+                  {
+                    "extent": [
+                      486,
+                      489
+                    ],
+                    "quality_score": 42.50000000000001,
+                    "sound_most_like": "ah"
+                  },
+                  {
+                    "extent": [
+                      489,
+                      492
+                    ],
+                    "quality_score": 39.66666666666667,
+                    "sound_most_like": "ee"
+                  }
+                ]
+              },
+              {
+                "phone": "b",
+                "stress_level": null,
+                "extent": [
+                  492,
+                  498
+                ],
+                "quality_score": 97,
+                "word_extent": [
+                  4,
+                  5
+                ],
+                "sound_most_like": "b"
+              },
+              {
+                "phone": "iy",
+                "stress_level": null,
+                "extent": [
+                  498,
+                  504
+                ],
+                "quality_score": 100,
+                "word_extent": [
+                  5,
+                  6
+                ],
+                "sound_most_like": "iy"
+              },
+              {
+                "phone": "t",
+                "stress_level": null,
+                "extent": [
+                  504,
+                  513
+                ],
+                "quality_score": 99.33333333333333,
+                "word_extent": [
+                  6,
+                  7
+                ],
+                "sound_most_like": "t"
+              }
+            ],
+            "syllable_score_list": [
+              {
+                "phone_count": 2,
+                "stress_level": -1,
+                "letters": "j'ha",
+                "quality_score": 69,
+                "extent": [
+                  481,
+                  492
+                ]
+              },
+              {
+                "phone_count": 3,
+                "stress_level": -1,
+                "letters": "bite",
+                "quality_score": 99,
+                "extent": [
+                  492,
+                  513
+                ]
+              }
+            ]
+          },
+          {
+            "word": "à",
+            "quality_score": 99,
+            "phone_score_list": [
+              {
+                "phone": "ad",
+                "stress_level": null,
+                "extent": [
+                  514,
+                  519
+                ],
+                "quality_score": 99,
+                "word_extent": [
+                  0,
+                  1
+                ],
+                "sound_most_like": "ad"
+              }
+            ],
+            "syllable_score_list": [
+              {
+                "phone_count": 1,
+                "stress_level": -1,
+                "letters": "à",
+                "quality_score": 99,
+                "extent": [
+                  514,
+                  519
+                ]
+              }
+            ]
+          },
+          {
+            "word": "Paris",
+            "quality_score": 98,
+            "phone_score_list": [
+              {
+                "phone": "p",
+                "stress_level": null,
+                "extent": [
+                  520,
+                  531
+                ],
+                "quality_score": 100,
+                "word_extent": [
+                  0,
+                  1
+                ],
+                "sound_most_like": "p"
+              },
+              {
+                "phone": "ad",
+                "stress_level": null,
+                "extent": [
+                  531,
+                  537
+                ],
+                "quality_score": 100,
+                "word_extent": [
+                  1,
+                  2
+                ],
+                "sound_most_like": "ad"
+              },
+              {
+                "phone": "rw",
+                "stress_level": null,
+                "extent": [
+                  537,
+                  543
+                ],
+                "quality_score": 100,
+                "word_extent": [
+                  2,
+                  3
+                ],
+                "sound_most_like": "rw"
+              },
+              {
+                "phone": "iy",
+                "stress_level": null,
+                "extent": [
+                  543,
+                  594
+                ],
+                "quality_score": 93.17647058823529,
+                "word_extent": [
+                  3,
+                  4
+                ],
+                "sound_most_like": "iy",
+                "child_phones": [
+                  {
+                    "extent": [
+                      543,
+                      552
+                    ],
+                    "quality_score": 98.66666666666667,
+                    "sound_most_like": "iy"
+                  },
+                  {
+                    "extent": [
+                      552,
+                      558
+                    ],
+                    "quality_score": 48,
+                    "sound_most_like": "s"
+                  },
+                  {
+                    "extent": [
+                      558,
+                      564
+                    ],
+                    "quality_score": 100,
+                    "sound_most_like": "iy"
+                  },
+                  {
+                    "extent": [
+                      564,
+                      567
+                    ],
+                    "quality_score": 96,
+                    "sound_most_like": "s"
+                  },
+                  {
+                    "extent": [
+                      567,
+                      582
+                    ],
+                    "quality_score": 100,
+                    "sound_most_like": "iy"
+                  },
+                  {
+                    "extent": [
+                      582,
+                      585
+                    ],
+                    "quality_score": 96,
+                    "sound_most_like": "sh"
+                  },
+                  {
+                    "extent": [
+                      585,
+                      594
+                    ],
+                    "quality_score": 100,
+                    "sound_most_like": "iy"
+                  }
+                ]
+              }
+            ],
+            "ending_punctuation": ".",
+            "syllable_score_list": [
+              {
+                "phone_count": 2,
+                "stress_level": -1,
+                "letters": "pa",
+                "quality_score": 100,
+                "extent": [
+                  520,
+                  537
+                ]
+              },
+              {
+                "phone_count": 2,
+                "stress_level": -1,
+                "letters": "ris",
+                "quality_score": 97,
+                "extent": [
+                  537,
+                  594
+                ]
+              }
+            ]
+          }
+        ],
+        "speechace_score": {
+          "pronunciation": 93
+        },
+        "cefr_score": {
+          "pronunciation": "C2"
+        }
+      },
+      "version": "9.3",
+      "request_id": "f575615353787842f4ea38942e1bbf4a"
+    }
+  }
+}
