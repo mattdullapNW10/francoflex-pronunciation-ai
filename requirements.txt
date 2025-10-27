@@ -6,6 +6,4 @@ langchain-openai
 langfuse
 python-dotenv
 requests
-sounddevice
-soundfile
 numpy

@@ -5,10 +5,18 @@ import json
 import requests
 from dotenv import load_dotenv
 import openai
-import sounddevice as sd
-import soundfile as sf
 import numpy as np
 import time
+
+# Optional imports for audio recording (only needed locally, not on server)
+try:
+    import sounddevice as sd
+except ImportError:
+    sd = None
+try:
+    import soundfile as sf
+except ImportError:
+    sf = None
 
 # Load environment variables
 load_dotenv()
